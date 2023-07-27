@@ -1,4 +1,4 @@
-### Hi there 👋
+![Header](https://github.com/DIJITEA/dijitea/blob/main/assets/code.gif)
 
 <!--
 **DIJITEA/dijitea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
