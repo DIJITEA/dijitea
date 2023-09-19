@@ -1,5 +1,14 @@
+![image](https://github.com/DIJITEA/dijitea/assets/57596699/b75b8973-a240-4282-8e77-3df555991950)
+
+## Frontend developer
+
+| ![image](https://github.com/DIJITEA/dijitea/assets/57596699/208a8ccb-18e7-44de-94e0-f8f7bbcff7af) | ![image](https://github.com/DIJITEA/dijitea/assets/57596699/df317be4-4ee7-46d7-8588-dc2bf5c70d8b) | ![image](https://github.com/DIJITEA/dijitea/assets/57596699/217f9bd3-a951-4111-88ae-4bf4332bb687)  | ![image](https://github.com/DIJITEA/dijitea/assets/57596699/7dc960d2-51bd-44aa-b0f1-9b7cd92d1a1a) | ![image](https://github.com/DIJITEA/dijitea/assets/57596699/6f3e872e-ba63-4382-8cd7-07020f6fe88d) | ![image](https://github.com/DIJITEA/dijitea/assets/57596699/7166584e-2f88-4340-a348-bbbeddeb3b09) | ![image](https://github.com/DIJITEA/dijitea/assets/57596699/b8a9d321-c7ec-4ff9-ab01-9edbabdba327) | ![image](https://github.com/DIJITEA/dijitea/assets/57596699/f160d243-5757-48a7-9023-faa6ef753061) | 
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | 
+| `HTML 5` | `CSS` | `SCSS`, `SASS`  | `styled-components` | ` JS`  | ` TS`  | `React` | `Redux`, `Redux Toolkit` |
+  
 ![Header](https://github.com/DIJITEA/dijitea/blob/main/assets/code.gif)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DIJITEA&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 <!--
 **DIJITEA/dijitea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
