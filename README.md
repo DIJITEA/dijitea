@@ -1,4 +1,5 @@
 ![Header](https://github.com/DIJITEA/dijitea/blob/main/assets/code.gif)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DIJITEA&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **DIJITEA/dijitea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
